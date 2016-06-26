@@ -1,4 +1,4 @@
-baseurl = "http://cryo99.github.io/hugotest/"
+baseurl = "https://cryo99.github.io/hugotest/"
 languageCode = "en-us"
 title = "Jimbo's Book Reviews"
 
