@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jimbo&#39;s Book Reviews </title>
-    <link>http://replace-this-with-your-hugo-site.com/post/</link>
+    <link>http://cryo99.github.io/hugotest/post/</link>
     <language>en-us</language>
     <author>Jimbo</author>
     <rights>(C) 2016</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>cats</title>
-          <link>http://replace-this-with-your-hugo-site.com/post/cats/</link>
+          <link>http://cryo99.github.io/hugotest/post/cats/</link>
           <pubDate>Sun, 26 Jun 2016 13:50:19 BST</pubDate>
           <author>Jimbo</author>
-          <guid>http://replace-this-with-your-hugo-site.com/post/cats/</guid>
+          <guid>http://cryo99.github.io/hugotest/post/cats/</guid>
           <description>&lt;p&gt;Some really awesome stuff about cats.&lt;/p&gt;
 </description>
         </item>
@@ -24,10 +24,10 @@
       
         <item>
           <title>good to great</title>
-          <link>http://replace-this-with-your-hugo-site.com/post/good-to-great/</link>
+          <link>http://cryo99.github.io/hugotest/post/good-to-great/</link>
           <pubDate>Sun, 26 Jun 2016 13:50:14 BST</pubDate>
           <author>Jimbo</author>
-          <guid>http://replace-this-with-your-hugo-site.com/post/good-to-great/</guid>
+          <guid>http://cryo99.github.io/hugotest/post/good-to-great/</guid>
           <description>&lt;p&gt;read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
 </description>
         </item>
